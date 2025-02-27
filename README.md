@@ -16,7 +16,7 @@ __Stacked Bar Chart:__ Illustrates the distribution of shot types over the ten-y
 
  
 # Dependencies
-__Python:__
+__Python__
 
 __nba_api__: Install and use this library to fetch NBA player statistics from a free public API.  
 
@@ -24,7 +24,7 @@ __pandas__: Use this to structure, clean, and manipulate NBA data before storing
 
 __time__: Implement this module to add delays between API requests and prevent rate limits.  
 
-__JavaScript:__
+__JavaScript__
 
 __node.js__: Install and run this to set up a server that retrieves NBA data from the database.
  
@@ -46,11 +46,11 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/nba-performance-analytics.git
 cd nba-performance-analytics
 
 1. **Set Up the Database**  
-   - This project **requires PostgreSQL** for data storage.  
-   - Install and configure the database using the **SQL scripts** provided in the `/SQL Scripts` folder.  
+   - This project requires PostgreSQL for data storage.  
+   - Install and configure the database using the SQL scripts provided in the `/SQL Scripts` folder.  
 
 2. **Run the Server Application**  
-   - **Node.js** is required to run the backend API.  
+   - Node.js is required to run the backend API.  
    - Start the server by running the appropriate script (refer to the instructions in the repository).  
 
 3. **Access the Application**  
@@ -58,19 +58,20 @@ cd nba-performance-analytics
      **http://localhost:3000**  
 
 4. **Interact with the Visuals**  
-   - Select an **NBA player** from the drop-down menu.  
-   - The charts will **automatically update** with the selected player’s data.  
+   - Select an NBA player from the drop-down menu.  
+   - The charts will automatically update with the selected player’s data.  
 
 5. **Ethical Considerations**  
-   - The project uses **publicly available data** from an API, ensuring no unethical data scraping.  
-   - Data is **stored locally** and is not shared externally.  
-   - The data remains **unaltered** and is not enriched with other sources.  
+   - The project uses publicly available data from an API, ensuring no unethical data scraping.  
+   - Data is stored locally and is not shared externally.  
+   - The data remains unaltered and is not enriched with other sources.  
 
 
 
 __Data Sources & References:__
 
 API GitHub Repo: nba_api GitHub
+
 API Documentation: NBA API Docs
-Sample Code References:
-Snippets from nba_api GitHub repository
+
+<!--Project 3 NBA Analysis-->
