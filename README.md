@@ -10,10 +10,6 @@ __Line Chart:__ Shows the trend of shot selection over time, with one line for t
 Scatter Plot: Displays the relationship between 3-point field goal percentage and scoring average by year.
 
 __Stacked Bar Chart:__ Illustrates the distribution of shot types over the ten-year period.
-
-
-
-
  
 # Dependencies
 __Python__
@@ -34,7 +30,7 @@ __Express.js__: Implement this lightweight framework to handle API requests betw
    
 __PostgreSQL client for Node.js:__ Use this database client to connect the Node.js server to PostgreSQL and fetch player stats.  
 
-Install and use __nba_api__ to fetch player data, __pandas__ to clean and structure it, __time__ to manage API requests, __node.js__ and __Express.js__ to build a server, __pg__ to connect to the database, and __D3.js__ to visualize the data dynamically.
+Install and use nba_api to fetch player data, pandas to clean and structure it, python time module to manage API requests, node.js and Express.js to build a server, postgres to connect to the database, and D3.js to visualize the data dynamically.
 
 
 # How to Use
