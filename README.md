@@ -34,9 +34,8 @@ __PostgreSQL client for Node.js:__ Use this database client to connect the Node.
 Install and use nba_api to fetch player data, pandas to clean and structure it, python time module to manage API requests, node.js and Express.js to build a server, postgres to connect to the database, and D3.js to visualize the data dynamically.
 
 
-# How to Use
 
-### How to Use & Interact with the Project
+# How to Use & Interact with the Project
 
 1. Clone the Repository:
 git clone https://github.com/YOUR_GITHUB_USERNAME/nba-performance-analytics.git
