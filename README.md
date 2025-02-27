@@ -37,9 +37,9 @@ Install and use nba_api to fetch player data, pandas to clean and structure it, 
 
 # How to Use & Interact with the Project
 
-1. __Clone the Repository:
-- git clone https://github.com/YOUR_GITHUB_USERNAME/nba-performance-analytics.git
-- cd nba-performance-analytics
+1. **Clone the Repository**
+  - git clone https://github.com/YOUR_GITHUB_USERNAME/nba-performance-analytics.git
+  - cd nba-performance-analytics
 
 1. **Set Up the Database**  
    - This project requires PostgreSQL for data storage.  
