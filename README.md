@@ -1,4 +1,4 @@
-# Project3_NBA_Analysis
+# NBA Analysis
 
 # Overview
 
